@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.video {
+    display: flex;
+    margin-left: 5px;
+    flex-direction: row;
+}
+
+.textt {
+    width: 430px;
+    height: 560px;
+    margin-top: 268px;
+    margin-left: 30px;
+    color: white;
+    font-size: 29px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 78%;
+    height: 100vh;
+    margin-left: 120px;
+    margin-top: 20px;
+    display: flex;
+    background-color: #5f4d77;
+}
+
+canvas {
+    position: absolute;
+    margin-left: 4px;
+}
